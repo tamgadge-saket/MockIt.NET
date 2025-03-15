@@ -1,0 +1,15 @@
+{
+  "RouteName": "api/users",
+  "HttpMethod": "GET",
+  "Responses": [
+    {
+      "Conditions": null,
+      "Response": {
+        "userId": 1,
+        "name": "John Doe",
+        "email": "john@example.com"
+      },
+      "StatusCode": 200
+    }
+  ]
+}
